@@ -1,1 +1,1 @@
-# eyeball-esgmentation
+# eyeball-segmentation
